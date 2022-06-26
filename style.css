@@ -149,7 +149,7 @@ body {
   }
 
   .product-card__hero-image {
-    content: url(../images/image-product-desktop.jpg);
+    content: url(./images/image-product-desktop.jpg);
     width: 300px;
     border-radius: 8px 0 0 8px;
   }
@@ -158,15 +158,15 @@ body {
     padding: 25px 30px;
   }
 
-    .texts {
-      padding: 0;
-    }
+  .texts {
+    padding: 0;
+  }
 
   .product-card__content__pretitle {
     font-size: 0.9rem;
   }
 
-  .product-card__content__title{
+  .product-card__content__title {
     margin: 12px 0;
   }
 
